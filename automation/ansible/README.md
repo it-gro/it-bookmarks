@@ -17,7 +17,6 @@ Table of Contents
 ### Ansible.com
 * https://docs.ansible.com
   * https://docs.ansible.com/ansible/latest/
-  * https://docs.ansible.com/ansible/latest/user_guide/
     * https://docs.ansible.com/ansible/latest/user_guide/index.html#traditional-table-of-contents
     * https://docs.ansible.com/ansible/latest/user_guide/playbooks.html
 * https://www.ansible.com/resources/get-started
@@ -30,6 +29,7 @@ Table of Contents
 
 ### ansible galaxy
 * https://www.ansible.com/community/galaxy
+* https://galaxy.ansible.com
 
 ### Scenarios
 

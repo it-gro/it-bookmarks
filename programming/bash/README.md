@@ -1,0 +1,9 @@
+# Programming
+## Bash
+* https://www.gnu.org/savannah-checkouts/gnu/bash/manual/
+* https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html
+* https://tiswww.case.edu/php/chet/bash/bashtop.html
+* https://tldp.org/LDP/abs/html/index.html
+* https://wiki.debian.org/Bash
+* https://manpages.debian.org/buster/bash/bash.1.en.html
+* https://en.wikipedia.org/wiki/GNU_Readline
