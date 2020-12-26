@@ -1,10 +1,16 @@
 # Automation
 ## Ansible
 
-**Table of Contents**
+Table of Contents
+=================
+
 * [Ansible.com](#ansiblecom)
 * [github.com/ansible](#githubcomansible)
 * [ansible galaxy](#ansible-galaxy)
+* [Scenarios](#scenarios)
+   * [Public Cloud Guides](#public-cloud-guides)
+   * [Vagrant](#vagrant)
+   * [Docker](#docker)
 
 ---
 
