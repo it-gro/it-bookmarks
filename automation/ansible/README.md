@@ -1,13 +1,12 @@
-* [Automation](#automation)
-   * [Ansible](#ansible)
-      * [Ansible.com](#ansiblecom)
-      * [github.com/ansible](#githubcomansible)
-      * [ansible galaxy](#ansible-galaxy)
-
-
 # Automation
-
 ## Ansible
+
+**Table of Contents**
+* [Ansible.com](#ansiblecom)
+* [github.com/ansible](#githubcomansible)
+* [ansible galaxy](#ansible-galaxy)
+
+---
 
 ### Ansible.com
 * https://docs.ansible.com
