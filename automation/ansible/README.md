@@ -22,6 +22,9 @@ Table of Contents
 * https://www.ansible.com/resources/get-started
   * https://www.ansible.com/resources/videos/quick-start-video
 
+#### 2.8
+* https://docs.ansible.com/ansible/2.8/modules/modules_by_category.html
+
 ### github.com/ansible
 * https://github.com/ansible
 * https://github.com/ansible/ansible
