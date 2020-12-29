@@ -12,12 +12,15 @@
 * https://boxstarter.org/WhyBoxstarter
 * https://boxstarter.org/Learn/WebLauncher
 
-## Chocolatey alternatives
+### winget
+* https://docs.microsoft.com/en-us/windows/package-manager
+  * https://docs.microsoft.com/en-us/windows/package-manager/winget/
+* https://github.com/microsoft/winget-cli
+
+### Alternatives
 * https://just-install.github.io
 * https://scoop.sh
 * https://brew.sh
   * must have on macOS
 * https://ninite.com
 * https://www.nuget.org
-* https://docs.microsoft.com/en-us/windows/package-manager
-* https://github.com/microsoft/winget-cli
