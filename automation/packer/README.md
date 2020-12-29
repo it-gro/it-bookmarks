@@ -1,0 +1,25 @@
+# Automation
+## Packer
+* https://www.packer.io
+* https://www.packer.io/docs/builders
+  * https://www.packer.io/docs/builders/amazon
+  * https://www.packer.io/docs/builders/azure
+  * https://www.packer.io/docs/builders/docker
+  * https://www.packer.io/docs/builders/googlecompute
+  * https://www.packer.io/docs/builders/hetzner-cloud
+  * https://www.packer.io/docs/builders/hyperv
+  * https://www.packer.io/docs/builders/lxd
+  * https://www.packer.io/docs/builders/openstack
+  * https://www.packer.io/docs/builders/oracle
+  * https://www.packer.io/docs/builders/qemu
+  * https://www.packer.io/docs/builders/vagrant
+  * https://www.packer.io/docs/builders/virtualbox
+  * https://www.packer.io/docs/builders/vmware
+* https://www.packer.io/docs/provisioners
+  * https://www.packer.io/docs/provisioners/ansible
+  * https://www.packer.io/docs/provisioners/file
+  * https://www.packer.io/docs/provisioners/powershell
+  * https://www.packer.io/docs/provisioners/shell
+  * https://www.packer.io/docs/provisioners/windows-shell
+  * https://www.packer.io/docs/provisioners/windows-restart
+* https://learn.hashicorp.com/packer
